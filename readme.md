@@ -22,6 +22,7 @@
 <li>ArgoCD <a href="https://www.credly.com/badges/b03866b4-83ad-423c-85c0-67ef93f30330/public_url">GitOps Fundamentals</a>.</li>
 <li>ArgoCD <a href="https://www.credly.com/badges/0cb98ab5-a9ff-4958-b741-5be4f1a43dcb/public_url">GitOps at Scale</a>.</li>
 <li>The SecOps Group <a href="https://secops.group/certificate-validation/">Certified AppSec Practitioner (CAP)</a>.</li>
+  <li>The SecOps Group <a href="https://secops.group/certificate-validation/">Certified Network Security Practitioner (CNSP)</a>.</li>
 <li>ISC2 <a href="https://www.credly.com/badges/3f3eb9b4-1881-431e-90d0-c9eeb0f04c07/public_url">Certified in Cybersecurity (CC)</a>.</li>
 <li>AWS <a href="https://www.credly.com/badges/04332d9e-d71d-4286-bff3-31919d02c329/public_url">Certified Cloud Practitioner</a>.</li>
 <li>Google Cloud <a href="https://www.credly.com/badges/990ca636-f153-467d-b4fc-e646555f336b/public_url">Associate Cloud Engineer</a>.</li>
